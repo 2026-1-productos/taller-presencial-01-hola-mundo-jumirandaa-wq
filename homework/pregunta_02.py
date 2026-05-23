@@ -17,5 +17,5 @@ def pregunta_02():
     return "Hello cruel world!"
 
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     print(pregunta_02())
